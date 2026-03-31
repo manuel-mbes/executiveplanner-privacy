@@ -42,4 +42,4 @@ These services are governed by Microsoft’s respective privacy policies.
 For privacy questions please contact:
 
 **MB Engineering Solutions**  
-support@mbengineeringsolutions.com
+manuel@mbengineeringsolutions.com
